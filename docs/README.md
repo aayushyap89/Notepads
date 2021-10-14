@@ -17,7 +17,7 @@
     <img src="https://img.shields.io/github/stars/yaichenbaum/Quick-Pad.svg?style=flat-square" alt="Stars" />
   </a>
 </p>
-
+This isnt created by me, this is created by Yair A
 ## Features:
 * Compact Overlay
 * Focus Mode
